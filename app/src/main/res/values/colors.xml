@@ -36,6 +36,6 @@
     <color name="start_page_gradient_start">#17324A</color>
     <color name="start_page_gradient_center">#1B5A66</color>
     <color name="start_page_gradient_end">#D47C45</color>
-    <color name="launcher_background_fill">#3DDC84</color>
+    <color name="launcher_background_fill">#0D0D0D</color>
     <color name="launcher_grid_stroke">#33FFFFFF</color>
 </resources>
